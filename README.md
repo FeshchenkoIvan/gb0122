@@ -1,5 +1,6 @@
-# Role Play Online
-PlayFab Title ID: A823B
-Photon AppID: 08c826bd-ea5e-45e6-b506-4b8a480ff1e8
+# gb_Survival
+Шутер, выживание, зомби-апокалипсис
+Fhoton App id: 4a7aa776-5d25-409d-885e-0928d45c9152
+PlayFab ID: FD7E4
 
-Formerly gb0122
+Онлайн выживание в мире зомби. Играйте совместно, делитесь припасами, убивайте зомби, прикрывайте друг друга. 
