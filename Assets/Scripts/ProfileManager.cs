@@ -41,3 +41,8 @@ public class ProfileManager : MonoBehaviour
         SceneManager.LoadScene("Bootstrap");
     }
 }
+<<<<<<< Updated upstream
+=======
+
+
+>>>>>>> Stashed changes
